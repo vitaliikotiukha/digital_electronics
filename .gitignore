@@ -1,0 +1,22 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary Office / Word files
+~$*.doc*
+*.tmp
+
+# Arduino temporary build files
+build/
+*.hex
+*.elf
+*.o
+*.d
+
+# IDE settings
+.vscode/
+.idea/
+.vs/
